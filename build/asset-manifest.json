@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.55484e3f.css",
+    "main.js": "/static/js/main.262c1cea.js",
+    "static/media/deadlift.jpg": "/static/media/deadlift.775dad8df45a7ae7ffe1.jpg",
+    "static/media/aboutus.jpg": "/static/media/aboutus.24fcbdd31618f2460711.jpg",
+    "index.html": "/index.html",
+    "main.55484e3f.css.map": "/static/css/main.55484e3f.css.map",
+    "main.262c1cea.js.map": "/static/js/main.262c1cea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55484e3f.css",
+    "static/js/main.262c1cea.js"
+  ]
+}
